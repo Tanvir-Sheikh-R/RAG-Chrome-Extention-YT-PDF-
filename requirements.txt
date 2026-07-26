@@ -3,3 +3,7 @@ chromadb
 langchain-groq
 sentence-transformers
 pymupdf
+langchain-community
+langchain-yt-dlp
+yt-dlp
+youtube-transcript-api
