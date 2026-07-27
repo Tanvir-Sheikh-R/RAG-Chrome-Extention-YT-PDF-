@@ -7,3 +7,7 @@ langchain-community
 langchain-yt-dlp
 yt-dlp
 youtube-transcript-api
+pinecone
+langchain-pinecone
+uuid
+langchain-huggingface
