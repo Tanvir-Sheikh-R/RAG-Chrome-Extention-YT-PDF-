@@ -11,3 +11,4 @@ pinecone
 langchain-pinecone
 uuid
 langchain-huggingface
+streamlit
