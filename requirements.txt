@@ -12,3 +12,4 @@ langchain-pinecone
 uuid
 langchain-huggingface
 streamlit
+pypdf
